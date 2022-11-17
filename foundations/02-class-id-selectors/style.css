@@ -1,4 +1,9 @@
-p {
+.odd-number {
     background-color: pink;
-    font-family: 'DejaVu Sans', sans-serif;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#element2 {
+    color: blue;
+    font-size: 36px;
 }
